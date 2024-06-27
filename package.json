@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "webpack",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -16,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CrisStefani/WEB/issues"
   },
-  "homepage": "https://github.com/CrisStefani/WEB#readme"
+  "homepage": "https://github.com/CrisStefani/WEB#readme",
+  "keywords": [
+    "app.js"
+  ]
 }
