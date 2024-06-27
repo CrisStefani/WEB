@@ -1,8 +1,7 @@
-# netlify.toml
-
 [build]
-  command = "npm run build"
-  publish = "dist" # Carpeta con los archivos estáticos generados
+
+command = "npm run install"
+publish = "dist" 
 
 [functions]
-  directory = "netlify/functions" # Carpeta con tus funciones sin servidor
+  directory = "netlify/functions"
